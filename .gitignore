@@ -4,7 +4,6 @@
 /node_modules
 es6/node_modules
 es6/.DS_Store
-Es*.md
 
 # testing
 /coverage
